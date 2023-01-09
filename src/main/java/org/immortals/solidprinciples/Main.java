@@ -1,11 +1,9 @@
-package org.immortals;
+package org.immortals.solidprinciples;
 
 import org.immortals.solidprinciples.lsp.Rectangle;
 import org.immortals.solidprinciples.lsp.Square;
 
 public class Main{
-
-
     static void getAreaTest( Rectangle r) {
         int width = r.getWidth();
         r.setHeight(10);

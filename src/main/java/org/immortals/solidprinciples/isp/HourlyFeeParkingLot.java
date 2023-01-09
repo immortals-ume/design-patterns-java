@@ -1,2 +1,5 @@
-package org.immortals.solidprinciples.isp;public interface HourlyFeeParkingLot {
+package org.immortals.solidprinciples.isp;
+
+public interface HourlyFeeParkingLot extends PaidParkingLot{
+    //define methods
 }

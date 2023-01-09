@@ -2,13 +2,9 @@ package org.immortals.solidprinciples.isp;
 
 
 /**
- * Our parking lot interface was composed of 2 things: Parking related logic (park car, unpark car, get capacity) and
- * payment related logic.
- *
- * But it is too specific. Because of that, our FreeParking class was forced to implement payment-related methods
- * that are irrelevant. let's resolve this .
+ * But we can simplify the below logic as interfaces
  */
-public class FreeParking implements  ParkingLot{
+public class FreeParkingWrong implements ParkingLot{
 
     @Override
     public void parkCar(){
