@@ -1,4 +1,4 @@
-package org.immortals.solidprinciples.srp;
+package org.immortals.designpatterns.solidprinciples.srp;
 
 // a simple class dealing with capturing Book details
 public class Book{

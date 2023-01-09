@@ -1,7 +1,7 @@
-package org.immortals.solidprinciples;
+package org.immortals.designpatterns.solidprinciples;
 
-import org.immortals.solidprinciples.lsp.Rectangle;
-import org.immortals.solidprinciples.lsp.Square;
+import org.immortals.designpatterns.solidprinciples.lsp.Rectangle;
+import org.immortals.designpatterns.solidprinciples.lsp.Square;
 
 public class Main{
     static void getAreaTest( Rectangle r) {

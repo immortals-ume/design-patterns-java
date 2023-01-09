@@ -1,4 +1,4 @@
-package org.immortals.solidprinciples.srp;
+package org.immortals.designpatterns.solidprinciples.srp;
 
 /**
  * helps in following the SRP rule , but does follow OCP Rule

@@ -1,4 +1,4 @@
-package org.immortals.solidprinciples.lsp;
+package org.immortals.designpatterns.solidprinciples.lsp;
 
 public class Square extends  Rectangle{
     public Square() {}

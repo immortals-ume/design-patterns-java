@@ -1,4 +1,4 @@
-package org.immortals.solidprinciples.srp;
+package org.immortals.designpatterns.solidprinciples.srp;
 
 // help in following the Solid Principles
 public class InvoicePrinter{

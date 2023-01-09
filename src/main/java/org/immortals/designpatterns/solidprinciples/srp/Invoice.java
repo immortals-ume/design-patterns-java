@@ -1,4 +1,4 @@
-package org.immortals.solidprinciples.srp;
+package org.immortals.designpatterns.solidprinciples.srp;
 
 /**
  * A simple Class for Capturing Invoice , not following the SRP rule.
