@@ -5,7 +5,7 @@ public class This implements Prototype, Command{
 
     @Override
     public void execute(){
-        System.out.println( "That: execute : "+this );
+        System.out.println( "This: execute : "+this );
     }
 
     @Override
