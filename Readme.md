@@ -22,7 +22,7 @@ Implemented in java Design Patterns adn Solid Principles used in Day to Day codi
     <li>Singleton</li>
 </ol>
 <p>
- Explanation of all the creation design pattern can be  [Read Here : ](src/main/java/com/immortals/designpatterns/gof/creational/Readme.md)
+ Explanation of all the creation design pattern can be  [Read Here : ](https://github.com/immortals-ume/design-patterns-java/blob/master/src/main/java/com/immortals/designpatterns/gof/creational/Readme.md)
 
 </p>
 </div>
