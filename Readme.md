@@ -21,9 +21,6 @@ Implemented in java Design Patterns adn Solid Principles used in Day to Day codi
     <li>Prototype</li>
     <li>Singleton</li>
 </ol>
-<p>
- Explanation of all the creation design pattern can be Check Out Here ! 
-</p>
 </div>
 
 <div>
