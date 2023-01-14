@@ -22,15 +22,15 @@ Implemented in java Design Patterns adn Solid Principles used in Day to Day codi
     <li>Singleton</li>
 </ol>
 <p>
- Explanation of all the creation design pattern can be  [Read Here](https://github.com/immortals-ume/design-patterns-java/blob/master/src/main/java/com/immortals/designpatterns/gof/creational/Readme.md)
-
+ Explanation of all the creation design pattern can be Check Out Here ! 
 </p>
 </div>
 
 <div>
 <h4> Structural Design Pattern </h4>
 <p>
-
+   Simplify the design of large object structures by identifying relationships between them. 
+   They describe common ways of composing classes and objects so that they become repeatable as solutions.
 </p>
 <ol>
 <li>Adapter</li>
